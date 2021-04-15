@@ -1,0 +1,24 @@
+{
+  "panes": [
+    { "label": "App", "command": "echo npm start" },
+    { "label": "Test", "command": "echo npm t -- --watch" },
+    { "label": "REPL", "command": "node" },
+    {
+      "label": "Greetings",
+      "commands": [
+        {
+          "label": "English",
+          "command": "echo good day"
+        },
+        {
+          "label": "French",
+          "command": "echo bonjour"
+        },
+        {
+          "label": "German",
+          "command": "echo guten tag"
+        }
+      ]
+    }
+  ]
+}
