@@ -44,5 +44,6 @@ module.exports = {
 - [ ] Standardise scrolling between shell panes and log panes.
 - [ ] Add some tests (yeah I didn't TDD much of this.)
 - [ ] Add --help.
+- [ ] Add --version.
 - [ ] Support custom layouts.
 - [ ] Bug: Display correct error when an error occurs in configuration file.
